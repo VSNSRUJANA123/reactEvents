@@ -1,0 +1,24 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+  padding: 0;
+}
+.eventContainer {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+}
+.ulContainer {
+  background-color: #64748b;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}

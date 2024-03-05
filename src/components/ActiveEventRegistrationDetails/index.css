@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.activeContainer {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.activeContainer p {
+  color: #475569;
+  font-size: 20px;
+}
+.register {
+  text-align: center;
+}
+.register img {
+  width: 200px;
+}
+
+.register button {
+  background-color: #0967d2;
+  border: none;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.register h1 {
+  color: #323f4b;
+}

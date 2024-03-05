@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.eventList {
+  margin: 10px;
+}
+.eventList h1 {
+  font-size: 20px;
+  width: 250px;
+}
+.eventList img {
+  width: 250px;
+}
+.eventList button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
